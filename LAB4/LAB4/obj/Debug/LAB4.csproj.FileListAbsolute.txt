@@ -1,0 +1,10 @@
+C:\Users\dligh\Desktop\LAB4\LAB4\bin\Debug\LAB4.exe.config
+C:\Users\dligh\Desktop\LAB4\LAB4\bin\Debug\LAB4.exe
+C:\Users\dligh\Desktop\LAB4\LAB4\bin\Debug\LAB4.pdb
+C:\Users\dligh\Desktop\LAB4\LAB4\bin\Debug\DLibrary.dll
+C:\Users\dligh\Desktop\LAB4\LAB4\bin\Debug\DLibrary.pdb
+C:\Users\dligh\Desktop\LAB4\LAB4\obj\Debug\LAB4.csprojAssemblyReference.cache
+C:\Users\dligh\Desktop\LAB4\LAB4\obj\Debug\LAB4.csproj.CoreCompileInputs.cache
+C:\Users\dligh\Desktop\LAB4\LAB4\obj\Debug\LAB4.csproj.CopyComplete
+C:\Users\dligh\Desktop\LAB4\LAB4\obj\Debug\LAB4.exe
+C:\Users\dligh\Desktop\LAB4\LAB4\obj\Debug\LAB4.pdb
